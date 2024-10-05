@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import React, { useRef } from "react";
+import React from "react";
 import Percentage from "./Percentage";
 import Button from "./Button";
 import { motion } from "framer-motion";
